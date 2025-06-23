@@ -1,0 +1,12 @@
+print("My age :" + str(12))
+print(500+200)
+print(300-100)
+print(20*20)
+print(100/10)
+print(100//10)
+print(3*3+3/3-3)
+print(6+4/2-(1*2))
+age = 10
+print("You are " + str(age) + " year old")
+name = input("What is your name ?")
+print(f"Hello {name}")
